@@ -1,4 +1,8 @@
+
+
 # Counter App
+
+Please visit this link to check the Aoo = https://spiffy-dragon-a70db4.netlify.app/
 
 The Counter App is a sleek and straightforward web application designed to help you manage and record counts effortlessly. Perfect for a variety of counting needs, from tracking event attendees to counting repetitions in workouts, this app offers a seamless user experience. The interface is intuitive, featuring a prominent display for the current count, along with buttons for incrementing the count and saving the current count as a previous entry.
 
